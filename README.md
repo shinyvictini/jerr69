@@ -1,5 +1,5 @@
 - 👋 What's good, I’m @jerr69
-- 👀 I’m interested in game developing
+- 👀 I’m interested in game developing and computer science.
 - 🌱 I’m currently learning :
 Java
 C
