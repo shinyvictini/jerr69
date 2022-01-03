@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning :
 **Java**
 **C**
-**C++
+**C++**
 - 💞️ I’m looking to collaborate on many different projects
 - 📫 You can reach me on Discord at jerome#2332
 
